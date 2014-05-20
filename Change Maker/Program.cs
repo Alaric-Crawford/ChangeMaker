@@ -11,9 +11,10 @@ namespace Change_Maker
         static void Main(string[] args)
         {
             //print amounts into equivalent change values
-            ChangeMaker(3.18);
-            ChangeMaker(0.99);
-            ChangeMaker(12.93);
+            //ChangeMaker(3.18);
+            //ChangeMaker(0.99);
+            //ChangeMaker(12.93);
+            ChangeMaker(1.24);
 
             Console.ReadKey();
         }
